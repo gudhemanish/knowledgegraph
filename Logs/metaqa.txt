@@ -1,0 +1,2083 @@
+START 1hop n500 2026-11-15T14:50:39.4539036+05:30
+Start!!!
+Data loading done!!!
+Evaluating 500 1-hop questions (sample seed 42) with generation seeds [1, 2, 3]
+Generation seed 1, 0 questions already scored
+0 th try!
+1 1825 : Correct!
+1 410 : Correct!
+1 4507 : Correct!
+1 4013 : Wrong...
+1 3658 : Correct!
+1 2287 : Correct!
+0 th try!
+1 1680 : Correct!
+1 8936 : Correct!
+1 1425 : Correct!
+1 9675 : Correct!
+1 6913 : Correct!
+1 521 : Correct!
+1 489 : Correct!
+1 1536 : Wrong...
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 3583 : Correct!
+1 3812 : Correct!
+1 8280 : Correct!
+1 9864 : Correct!
+1 435 : Correct!
+1 9196 : Correct!
+1 3258 : Correct!
+1 8929 : Correct!
+1 6874 : Correct!
+1 3612 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 7360 : Correct!
+1 9655 : Correct!
+1 4558 : Wrong...
+1 107 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 2616 : Correct!
+1 6925 : Correct!
+1 5575 : Wrong...
+1 4553 : Correct!
+1 2548 : Correct!
+1 3528 : Correct!
+1 5515 : Correct!
+1 1675 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 1520 : Correct!
+1 6225 : Correct!
+1 1585 : Correct!
+0 th try!
+1 5882 : Correct!
+1 5636 : Correct!
+1 9892 : Correct!
+1 4334 : Correct!
+1 712 : Correct!
+1 7528 : Correct!
+1 8786 : Correct!
+1 2046 : Correct!
+1 6202 : Correct!
+1 1292 : Correct!
+1 9045 : Correct!
+1 4804 : Wrong...
+1 5926 : Correct!
+1 9460 : Correct!
+1 3151 : Correct!
+1 1140 : Correct!
+1 751 : Correct!
+1 3734 : Correct!
+1 4742 : Correct!
+1 1308 : Correct!
+1 3815 : Correct!
+0 th try!
+1 1655 : Correct!
+1 6228 : Correct!
+1 4555 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 7429 : Correct!
+1 5978 : Correct!
+1 2665 : Correct!
+1 6066 : Correct!
+1 5821 : Wrong...
+1 3433 : Correct!
+1 4375 : Correct!
+1 1170 : Correct!
+1 2804 : Correct!
+1 8752 : Correct!
+1 4011 : Correct!
+1 2678 : Correct!
+1 7574 : Correct!
+1 6217 : Correct!
+1 4423 : Correct!
+1 9126 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 3599 : Correct!
+1 5314 : Correct!
+1 917 : Correct!
+1 3753 : Correct!
+1 526 : Correct!
+1 5169 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 6573 : Correct!
+1 4387 : Correct!
+1 1085 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 3457 : Correct!
+1 9293 : Correct!
+1 5156 : Correct!
+1 3484 : Correct!
+1 8180 : Correct!
+1 6483 : Correct!
+1 7518 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 2341 : Correct!
+1 4340 : Correct!
+1 2288 : Correct!
+1 4041 : Correct!
+1 9198 : Correct!
+Seed 1 accuracy: 0.94
+Generation seed 2, 0 questions already scored
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 1825 : Correct!
+2 410 : Correct!
+2 4507 : Correct!
+2 4013 : Wrong...
+2 3658 : Correct!
+2 2287 : Correct!
+0 th try!
+2 1680 : Correct!
+2 8936 : Correct!
+2 1425 : Correct!
+2 9675 : Correct!
+2 6913 : Correct!
+2 521 : Correct!
+2 489 : Correct!
+2 1536 : Wrong...
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 3583 : Correct!
+2 3812 : Correct!
+2 8280 : Correct!
+2 9864 : Correct!
+2 435 : Correct!
+2 9196 : Correct!
+2 3258 : Correct!
+2 8929 : Correct!
+2 6874 : Correct!
+2 3612 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 7360 : Correct!
+2 9655 : Correct!
+2 4558 : Wrong...
+2 107 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 2616 : Correct!
+2 6925 : Correct!
+2 5575 : Wrong...
+2 4553 : Correct!
+2 2548 : Correct!
+2 3528 : Correct!
+2 5515 : Correct!
+2 1675 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 1520 : Correct!
+2 6225 : Correct!
+2 1585 : Correct!
+0 th try!
+2 5882 : Correct!
+2 5636 : Correct!
+2 9892 : Correct!
+2 4334 : Correct!
+2 712 : Correct!
+2 7528 : Correct!
+2 8786 : Correct!
+2 2046 : Correct!
+2 6202 : Correct!
+2 1292 : Correct!
+2 9045 : Correct!
+2 4804 : Wrong...
+2 5926 : Correct!
+2 9460 : Correct!
+2 3151 : Correct!
+2 1140 : Correct!
+2 751 : Correct!
+2 3734 : Correct!
+2 4742 : Correct!
+2 1308 : Correct!
+2 3815 : Correct!
+0 th try!
+2 1655 : Correct!
+2 6228 : Correct!
+2 4555 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 7429 : Correct!
+2 5978 : Correct!
+2 2665 : Correct!
+2 6066 : Correct!
+2 5821 : Wrong...
+2 3433 : Correct!
+2 4375 : Correct!
+2 1170 : Correct!
+2 2804 : Correct!
+2 8752 : Correct!
+2 4011 : Correct!
+2 2678 : Correct!
+2 7574 : Correct!
+2 6217 : Correct!
+2 4423 : Correct!
+2 9126 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 3599 : Correct!
+2 5314 : Correct!
+2 917 : Correct!
+2 3753 : Correct!
+2 526 : Correct!
+2 5169 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 6573 : Correct!
+2 4387 : Correct!
+2 1085 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 3457 : Correct!
+2 9293 : Correct!
+2 5156 : Correct!
+2 3484 : Correct!
+2 8180 : Correct!
+2 6483 : Correct!
+2 7518 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 2341 : Correct!
+2 4340 : Correct!
+2 2288 : Correct!
+2 4041 : Correct!
+2 9198 : Correct!
+Seed 2 accuracy: 0.94
+Generation seed 3, 0 questions already scored
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 1825 : Correct!
+3 410 : Correct!
+3 4507 : Correct!
+3 4013 : Wrong...
+3 3658 : Correct!
+3 2287 : Correct!
+0 th try!
+3 1680 : Correct!
+3 8936 : Correct!
+3 1425 : Correct!
+3 9675 : Correct!
+3 6913 : Correct!
+3 521 : Correct!
+3 489 : Correct!
+3 1536 : Wrong...
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 3583 : Correct!
+3 3812 : Correct!
+3 8280 : Correct!
+3 9864 : Correct!
+3 435 : Correct!
+3 9196 : Correct!
+3 3258 : Correct!
+3 8929 : Correct!
+3 6874 : Correct!
+3 3612 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 7360 : Correct!
+3 9655 : Correct!
+3 4558 : Wrong...
+3 107 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 2616 : Correct!
+3 6925 : Correct!
+3 5575 : Wrong...
+3 4553 : Correct!
+3 2548 : Correct!
+3 3528 : Correct!
+3 5515 : Correct!
+3 1675 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 1520 : Correct!
+3 6225 : Correct!
+3 1585 : Correct!
+0 th try!
+3 5882 : Correct!
+3 5636 : Correct!
+3 9892 : Correct!
+3 4334 : Correct!
+3 712 : Correct!
+3 7528 : Correct!
+3 8786 : Correct!
+3 2046 : Correct!
+3 6202 : Correct!
+3 1292 : Correct!
+3 9045 : Correct!
+3 4804 : Wrong...
+3 5926 : Correct!
+3 9460 : Correct!
+3 3151 : Correct!
+3 1140 : Correct!
+3 751 : Correct!
+3 3734 : Correct!
+3 4742 : Correct!
+3 1308 : Correct!
+3 3815 : Correct!
+0 th try!
+3 1655 : Correct!
+3 6228 : Correct!
+3 4555 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 7429 : Correct!
+3 5978 : Correct!
+3 2665 : Correct!
+3 6066 : Correct!
+3 5821 : Wrong...
+3 3433 : Correct!
+3 4375 : Correct!
+3 1170 : Correct!
+3 2804 : Correct!
+3 8752 : Correct!
+3 4011 : Correct!
+3 2678 : Correct!
+3 7574 : Correct!
+3 6217 : Correct!
+3 4423 : Correct!
+3 9126 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 3599 : Correct!
+3 5314 : Correct!
+3 917 : Correct!
+3 3753 : Correct!
+3 526 : Correct!
+3 5169 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 6573 : Correct!
+3 4387 : Correct!
+3 1085 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 3457 : Correct!
+3 9293 : Correct!
+3 5156 : Correct!
+3 3484 : Correct!
+3 8180 : Correct!
+3 6483 : Correct!
+3 7518 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 2341 : Correct!
+3 4340 : Correct!
+3 2288 : Correct!
+3 4041 : Correct!
+3 9198 : Correct!
+Seed 3 accuracy: 0.94
+Mean accuracy:  0.94
+Std accuracy:  0.0
+START 2hop n500 2026-11-15T15:03:17.7757471+05:30
+Start!!!
+Data loading done!!!
+Evaluating 500 2-hop questions (sample seed 42) with generation seeds [1, 2, 3]
+Generation seed 1, 0 questions already scored
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 10477 : Wrong...
+1 1825 : Wrong...
+1 410 : Wrong...
+1 12150 : Correct!
+1 4507 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 4013 : Wrong...
+1 3658 : Wrong...
+1 2287 : Wrong...
+1 12067 : Wrong...
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 1680 : Wrong...
+1 11088 : Correct!
+1 12136 : Wrong...
+1 14618 : Correct!
+1 8936 : Wrong...
+1 1425 : Correct!
+1 9675 : Correct!
+1 6913 : Correct!
+1 521 : Correct!
+1 489 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 1536 : Wrong...
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 3583 : Wrong...
+1 3812 : Correct!
+1 8280 : Wrong...
+1 9864 : Correct!
+1 435 : Correct!
+1 9196 : Correct!
+1 3258 : Wrong...
+1 11732 : Correct!
+1 10648 : Wrong...
+1 11491 : Correct!
+1 8929 : Correct!
+1 6874 : Correct!
+1 3612 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 7360 : Correct!
+1 9655 : Correct!
+1 4558 : Correct!
+1 13262 : Correct!
+1 14243 : Correct!
+1 107 : Correct!
+1 12433 : Wrong...
+1 13203 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 2616 : Correct!
+1 11439 : Correct!
+1 6925 : Wrong...
+1 5575 : Correct!
+1 4553 : Wrong...
+1 2548 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 3528 : Correct!
+1 12510 : Correct!
+1 5515 : Correct!
+1 1675 : Correct!
+1 1520 : Correct!
+1 6225 : Wrong...
+1 1585 : Wrong...
+1 5882 : Correct!
+1 13886 : Correct!
+1 5636 : Wrong...
+1 9892 : Correct!
+1 4334 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 13224 : Correct!
+1 712 : Wrong...
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 11956 : Wrong...
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+0 th try!
+1 7528 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 8786 : Correct!
+1 2046 : Correct!
+1 6202 : Correct!
+1 1292 : Correct!
+1 9045 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 4804 : Wrong...
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 13589 : Correct!
+1 10300 : Wrong...
+0 th try!
+1 10134 : Correct!
+1 14508 : Correct!
+1 14119 : Wrong...
+1 5926 : Correct!
+1 9460 : Correct!
+1 3151 : Correct!
+1 11544 : Correct!
+1 1140 : Correct!
+1 751 : Correct!
+1 10835 : Correct!
+1 3734 : Correct!
+1 12666 : Correct!
+1 4742 : Correct!
+1 1308 : Correct!
+1 14014 : Wrong...
+1 3815 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 14197 : Correct!
+1 1655 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 6228 : Correct!
+1 4555 : Correct!
+1 7429 : Correct!
+1 10416 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 13667 : Wrong...
+1 5978 : Wrong...
+1 2665 : Correct!
+1 6066 : Wrong...
+1 5821 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 3433 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 10981 : Wrong...
+Seed 1 accuracy: 0.69
+Generation seed 2, 0 questions already scored
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 10477 : Wrong...
+2 1825 : Wrong...
+2 410 : Wrong...
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 12150 : Correct!
+2 4507 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 4013 : Wrong...
+2 3658 : Wrong...
+2 2287 : Wrong...
+2 12067 : Wrong...
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 1680 : Wrong...
+2 11088 : Correct!
+2 12136 : Wrong...
+2 14618 : Correct!
+2 8936 : Wrong...
+2 1425 : Correct!
+2 9675 : Correct!
+2 6913 : Correct!
+2 521 : Correct!
+2 489 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 1536 : Wrong...
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 3583 : Wrong...
+2 3812 : Correct!
+2 8280 : Wrong...
+2 9864 : Correct!
+2 435 : Correct!
+2 9196 : Correct!
+2 3258 : Wrong...
+2 11732 : Correct!
+2 10648 : Wrong...
+2 11491 : Correct!
+2 8929 : Correct!
+2 6874 : Correct!
+2 3612 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 7360 : Correct!
+2 9655 : Correct!
+2 4558 : Correct!
+2 13262 : Correct!
+2 14243 : Correct!
+2 107 : Correct!
+2 12433 : Wrong...
+2 13203 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 2616 : Correct!
+2 11439 : Correct!
+2 6925 : Wrong...
+2 5575 : Correct!
+2 4553 : Wrong...
+2 2548 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 3528 : Correct!
+2 12510 : Correct!
+2 5515 : Correct!
+2 1675 : Correct!
+2 1520 : Correct!
+2 6225 : Wrong...
+2 1585 : Wrong...
+2 5882 : Correct!
+2 13886 : Correct!
+2 5636 : Wrong...
+2 9892 : Correct!
+2 4334 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 13224 : Correct!
+2 712 : Wrong...
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 11956 : Wrong...
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+0 th try!
+2 7528 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 8786 : Correct!
+2 2046 : Correct!
+2 6202 : Correct!
+2 1292 : Correct!
+2 9045 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 4804 : Wrong...
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 13589 : Correct!
+2 10300 : Wrong...
+0 th try!
+2 10134 : Correct!
+2 14508 : Correct!
+2 14119 : Wrong...
+2 5926 : Correct!
+2 9460 : Correct!
+2 3151 : Correct!
+2 11544 : Correct!
+2 1140 : Correct!
+2 751 : Correct!
+2 10835 : Correct!
+2 3734 : Correct!
+2 12666 : Correct!
+2 4742 : Correct!
+2 1308 : Correct!
+2 14014 : Wrong...
+2 3815 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 14197 : Correct!
+2 1655 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 6228 : Correct!
+2 4555 : Correct!
+2 7429 : Correct!
+2 10416 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 13667 : Wrong...
+2 5978 : Wrong...
+2 2665 : Correct!
+2 6066 : Wrong...
+2 5821 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 3433 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 10981 : Wrong...
+Seed 2 accuracy: 0.69
+Generation seed 3, 0 questions already scored
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 10477 : Wrong...
+3 1825 : Wrong...
+3 410 : Wrong...
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 12150 : Correct!
+3 4507 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 4013 : Wrong...
+3 3658 : Wrong...
+3 2287 : Wrong...
+3 12067 : Wrong...
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 1680 : Wrong...
+3 11088 : Correct!
+3 12136 : Wrong...
+3 14618 : Correct!
+3 8936 : Wrong...
+3 1425 : Correct!
+3 9675 : Correct!
+3 6913 : Correct!
+3 521 : Correct!
+3 489 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 1536 : Wrong...
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 3583 : Wrong...
+3 3812 : Correct!
+3 8280 : Wrong...
+3 9864 : Correct!
+3 435 : Correct!
+3 9196 : Correct!
+3 3258 : Wrong...
+3 11732 : Correct!
+3 10648 : Wrong...
+3 11491 : Correct!
+3 8929 : Correct!
+3 6874 : Correct!
+3 3612 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 7360 : Correct!
+3 9655 : Correct!
+3 4558 : Correct!
+3 13262 : Correct!
+3 14243 : Correct!
+3 107 : Correct!
+3 12433 : Wrong...
+3 13203 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 2616 : Correct!
+3 11439 : Correct!
+3 6925 : Wrong...
+3 5575 : Correct!
+3 4553 : Wrong...
+3 2548 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 3528 : Correct!
+3 12510 : Correct!
+3 5515 : Correct!
+3 1675 : Correct!
+3 1520 : Correct!
+3 6225 : Wrong...
+3 1585 : Wrong...
+3 5882 : Correct!
+3 13886 : Correct!
+3 5636 : Wrong...
+3 9892 : Correct!
+3 4334 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 13224 : Correct!
+3 712 : Wrong...
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 11956 : Wrong...
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+0 th try!
+3 7528 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 8786 : Correct!
+3 2046 : Correct!
+3 6202 : Correct!
+3 1292 : Correct!
+3 9045 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 4804 : Wrong...
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 13589 : Correct!
+3 10300 : Wrong...
+0 th try!
+3 10134 : Correct!
+3 14508 : Correct!
+3 14119 : Wrong...
+3 5926 : Correct!
+3 9460 : Correct!
+3 3151 : Correct!
+3 11544 : Correct!
+3 1140 : Correct!
+3 751 : Correct!
+3 10835 : Correct!
+3 3734 : Correct!
+3 12666 : Correct!
+3 4742 : Correct!
+3 1308 : Correct!
+3 14014 : Wrong...
+3 3815 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 14197 : Correct!
+3 1655 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 6228 : Correct!
+3 4555 : Correct!
+3 7429 : Correct!
+3 10416 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 13667 : Wrong...
+3 5978 : Wrong...
+3 2665 : Correct!
+3 6066 : Wrong...
+3 5821 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 3433 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 10981 : Wrong...
+Seed 3 accuracy: 0.69
+Mean accuracy:  0.69
+Std accuracy:  0.0
+START 3hop n500 2026-11-15T15:22:47.8860331+05:30
+Start!!!
+Data loading done!!!
+Evaluating 500 3-hop questions (sample seed 42) with generation seeds [1, 2, 3]
+Generation seed 1, 0 questions already scored
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 10477 : Correct!
+1 1825 : Wrong...
+0 th try!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 410 : Correct!
+1 12150 : Wrong...
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 4507 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 4013 : Wrong...
+1 3658 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 2287 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 12067 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 1680 : Correct!
+0 th try!
+1 11088 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 12136 : Wrong...
+1 8936 : Correct!
+1 1425 : Correct!
+1 9675 : Correct!
+0 th try!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 6913 : Correct!
+1 521 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 489 : Correct!
+1 1536 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 3583 : Correct!
+1 3812 : Wrong...
+1 8280 : Correct!
+1 9864 : Correct!
+1 435 : Correct!
+0 th try!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 9196 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 3258 : Correct!
+1 11732 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 10648 : Correct!
+1 11491 : Correct!
+1 8929 : Correct!
+1 6874 : Correct!
+1 3612 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 7360 : Correct!
+1 9655 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 4558 : Wrong...
+0 th try!
+1 13262 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 14243 : Correct!
+1 107 : Correct!
+1 12433 : Wrong...
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 13203 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 2616 : Correct!
+1 11439 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 6925 : Wrong...
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 5575 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 4553 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 2548 : Correct!
+1 3528 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 12510 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 5515 : Correct!
+1 1675 : Correct!
+1 1520 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 6225 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 1585 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 5882 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 13886 : Correct!
+1 5636 : Wrong...
+1 9892 : Correct!
+0 th try!
+1 4334 : Wrong...
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 13224 : Wrong...
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 712 : Correct!
+1 11956 : Wrong...
+1 7528 : Wrong...
+1 8786 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 2046 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 6202 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 1292 : Correct!
+1 9045 : Wrong...
+1 4804 : Wrong...
+1 13589 : Correct!
+1 10300 : Correct!
+1 10134 : Correct!
+1 14119 : Correct!
+1 5926 : Correct!
+1 9460 : Correct!
+1 3151 : Wrong...
+1 11544 : Wrong...
+1 1140 : Wrong...
+1 751 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 10835 : Correct!
+1 3734 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 12666 : Correct!
+1 4742 : Correct!
+1 1308 : Correct!
+1 14014 : Correct!
+1 3815 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 14197 : Correct!
+0 th try!
+0 th try!
+1 1655 : Correct!
+1 6228 : Correct!
+0 th try!
+1 4555 : Correct!
+1 7429 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 10416 : Correct!
+0 th try!
+1 13667 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 5978 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 2665 : Wrong...
+1 6066 : Wrong...
+1 5821 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 3433 : Correct!
+1 10981 : Wrong...
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+1 4375 : Correct!
+1 11499 : Wrong...
+Seed 1 accuracy: 0.78
+Generation seed 2, 0 questions already scored
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 10477 : Correct!
+2 1825 : Wrong...
+0 th try!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 410 : Correct!
+2 12150 : Wrong...
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 4507 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 4013 : Wrong...
+2 3658 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 2287 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 12067 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 1680 : Correct!
+0 th try!
+2 11088 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 12136 : Wrong...
+2 8936 : Correct!
+2 1425 : Correct!
+2 9675 : Correct!
+0 th try!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 6913 : Correct!
+2 521 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 489 : Correct!
+2 1536 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 3583 : Correct!
+2 3812 : Wrong...
+2 8280 : Correct!
+2 9864 : Correct!
+2 435 : Correct!
+0 th try!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 9196 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 3258 : Correct!
+2 11732 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 10648 : Correct!
+2 11491 : Correct!
+2 8929 : Correct!
+2 6874 : Correct!
+2 3612 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 7360 : Correct!
+2 9655 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 4558 : Wrong...
+0 th try!
+2 13262 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 14243 : Correct!
+2 107 : Correct!
+2 12433 : Wrong...
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 13203 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 2616 : Correct!
+2 11439 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 6925 : Wrong...
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 5575 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 4553 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 2548 : Correct!
+2 3528 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 12510 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 5515 : Correct!
+2 1675 : Correct!
+2 1520 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 6225 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 1585 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 5882 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 13886 : Correct!
+2 5636 : Wrong...
+2 9892 : Correct!
+0 th try!
+2 4334 : Wrong...
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 13224 : Wrong...
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 712 : Correct!
+2 11956 : Wrong...
+2 7528 : Wrong...
+2 8786 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 2046 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 6202 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 1292 : Correct!
+2 9045 : Wrong...
+2 4804 : Wrong...
+2 13589 : Correct!
+2 10300 : Correct!
+2 10134 : Correct!
+2 14119 : Correct!
+2 5926 : Correct!
+2 9460 : Correct!
+2 3151 : Wrong...
+2 11544 : Wrong...
+2 1140 : Wrong...
+2 751 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 10835 : Correct!
+2 3734 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 12666 : Correct!
+2 4742 : Correct!
+2 1308 : Correct!
+2 14014 : Correct!
+2 3815 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 14197 : Correct!
+0 th try!
+0 th try!
+2 1655 : Correct!
+2 6228 : Correct!
+0 th try!
+2 4555 : Correct!
+2 7429 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 10416 : Correct!
+0 th try!
+2 13667 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 5978 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 2665 : Wrong...
+2 6066 : Wrong...
+2 5821 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 3433 : Correct!
+2 10981 : Wrong...
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+2 4375 : Correct!
+2 11499 : Wrong...
+Seed 2 accuracy: 0.78
+Generation seed 3, 0 questions already scored
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 10477 : Correct!
+3 1825 : Wrong...
+0 th try!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 410 : Correct!
+3 12150 : Wrong...
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 4507 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 4013 : Wrong...
+3 3658 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 2287 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 12067 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 1680 : Correct!
+0 th try!
+3 11088 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 12136 : Wrong...
+3 8936 : Correct!
+3 1425 : Correct!
+3 9675 : Correct!
+0 th try!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 6913 : Correct!
+3 521 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 489 : Correct!
+3 1536 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 3583 : Correct!
+3 3812 : Wrong...
+3 8280 : Correct!
+3 9864 : Correct!
+3 435 : Correct!
+0 th try!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 9196 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 3258 : Correct!
+3 11732 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 10648 : Correct!
+3 11491 : Correct!
+3 8929 : Correct!
+3 6874 : Correct!
+3 3612 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 7360 : Correct!
+3 9655 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 4558 : Wrong...
+0 th try!
+3 13262 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 14243 : Correct!
+3 107 : Correct!
+3 12433 : Wrong...
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 13203 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 2616 : Correct!
+3 11439 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 6925 : Wrong...
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 5575 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 4553 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 2548 : Correct!
+3 3528 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 12510 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 5515 : Correct!
+3 1675 : Correct!
+3 1520 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 6225 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 1585 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 5882 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 13886 : Correct!
+3 5636 : Wrong...
+3 9892 : Correct!
+0 th try!
+3 4334 : Wrong...
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 13224 : Wrong...
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 712 : Correct!
+3 11956 : Wrong...
+3 7528 : Wrong...
+3 8786 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 2046 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 6202 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 1292 : Correct!
+3 9045 : Wrong...
+3 4804 : Wrong...
+3 13589 : Correct!
+3 10300 : Correct!
+3 10134 : Correct!
+3 14119 : Correct!
+3 5926 : Correct!
+3 9460 : Correct!
+3 3151 : Wrong...
+3 11544 : Wrong...
+3 1140 : Wrong...
+3 751 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 10835 : Correct!
+3 3734 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 12666 : Correct!
+3 4742 : Correct!
+3 1308 : Correct!
+3 14014 : Correct!
+3 3815 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 14197 : Correct!
+0 th try!
+0 th try!
+3 1655 : Correct!
+3 6228 : Correct!
+0 th try!
+3 4555 : Correct!
+3 7429 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 10416 : Correct!
+0 th try!
+3 13667 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 5978 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 2665 : Wrong...
+3 6066 : Wrong...
+3 5821 : Correct!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 3433 : Correct!
+3 10981 : Wrong...
+0 th try!
+1 th try!
+2 th try!
+3 th try!
+4 th try!
+3 4375 : Correct!
+3 11499 : Wrong...
+Seed 3 accuracy: 0.78
+Mean accuracy:  0.78
+Std accuracy:  0.0
+ALL DONE 2026-11-15T16:10:18.7148449+05:30 exit=0
